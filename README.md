@@ -3,9 +3,12 @@ Given the Dior - Eau de Parfum commercial, use any existing algorithms to genera
 
 # Resources
 https://thedatafrog.com/en/articles/human-detection-video/
-https://medium.com/swlh/creating-your-own-custom-object-detector-using-transfer-learning-f26918697889
+
 https://github.com/vinay0410/Pedestrian_Detection/blob/master/detectmulti.py
+
 https://www.pyimagesearch.com/2015/11/16/hog-detectmultiscale-parameters-explained/
+
+https://medium.com/swlh/creating-your-own-custom-object-detector-using-transfer-learning-f26918697889
 
 # TO DO
 1 - Package it
