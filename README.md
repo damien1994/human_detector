@@ -3,11 +3,18 @@ Given the Dior - Eau de Parfum commercial, use any existing algorithms to genera
 
 # Resources
 https://thedatafrog.com/en/articles/human-detection-video/
+https://medium.com/swlh/creating-your-own-custom-object-detector-using-transfer-learning-f26918697889
+https://github.com/vinay0410/Pedestrian_Detection/blob/master/detectmulti.py
+https://www.pyimagesearch.com/2015/11/16/hog-detectmultiscale-parameters-explained/
 
 # TO DO
-- improve algo performance on human detection :
-    - work on hyparameters of HOG implementation
-    - test with only human faces detection
-    - use of other algorithms 
-- refactoring
-- put automatically the user on the frame used for the human detection
+1 - Package it
+2 - Unit test
+3 - Docstring and type inference
+4 - Docker 
+5 - Improve algo performance :
+  - hyperparameter tuning of HOG opencv implementation
+  - implement non-maxima suppression
+  - implement a deep learning solution (use transfer learning)
+  - test with only human faces detection ?
+6 - Implement Github CI Actions
