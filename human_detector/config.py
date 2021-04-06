@@ -1,0 +1,1 @@
+HOG_INITIALIZATION_MODE = "standard"
