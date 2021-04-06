@@ -9,12 +9,17 @@ https://www.pyimagesearch.com/2015/11/16/hog-detectmultiscale-parameters-explain
 
 # TO DO
 1 - Package it
+
 2 - Unit test
+
 3 - Docstring and type inference
+
 4 - Docker 
+
 5 - Improve algo performance :
   - hyperparameter tuning of HOG opencv implementation
   - implement non-maxima suppression
   - implement a deep learning solution (use transfer learning)
   - test with only human faces detection ?
+
 6 - Implement Github CI Actions
