@@ -22,6 +22,10 @@ def create_parser():
         '--mode',
         help='Define which algo to use'
     )
+    parser.add_argument(
+        '--haarcascade_mode',
+        help='Define which pre trained cascade classifier you want to use'
+    )
     return parser
 
 

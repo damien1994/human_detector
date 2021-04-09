@@ -13,7 +13,8 @@ build: clean
 run: build
 	python3 -m human_detector.main \
 	--video_path ${VIDEO_PATH} \
-	--mode 'HOG'
+	--mode 'HAARCASCADE' \
+	--haarcascade_mode 'fullbody'
 
 linter:
 	pip3 install -r requirements.txt
